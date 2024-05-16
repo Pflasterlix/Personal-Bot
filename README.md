@@ -1,1 +1,1 @@
-# Personal-Bot
+# WorkPal
